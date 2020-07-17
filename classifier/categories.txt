@@ -1,0 +1,5 @@
+health disease hospital patient doctor ward
+authentication login logout signin signout password username credentials
+purchase buy sell pay cart transaction product
+personally identifiable information pii passport_number SocialSecurityNumber SSN aadhaar address
+tracking geolocation ip_address mac_address imei_hardware_id

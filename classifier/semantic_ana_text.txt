@@ -1,0 +1,5 @@
+health disease hospital patient doctor ward
+authentication login logout signin signout password username credentials
+purchase buy sell pay cart transaction product
+pii Personally identifiable information passport_number SocialSecurityNumber SSN aadhaar
+hi when how are you? how is your health good great perfect light air run swim
